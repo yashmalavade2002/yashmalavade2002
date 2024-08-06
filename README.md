@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Web Devlopment Projects**
 
-- 🌱 I’m currently learning **Java DSA OOP Web Devlopment Linux AWS**
+- 🌱 I’m currently learning **Java DSA OOP Web Devlopment AWS**
 
 - 💬 Ask me about **AWS Azure GCP**
 
