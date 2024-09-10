@@ -29,10 +29,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,cpp" />
+    <img src="https://skillicons.dev/icons?i=java" />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,javascript,typescript,angular,hibernate" />
     <img src="https://skillicons.dev/icons?i=spring,firebase,mysql,vscode,github,figma,git,androidstudio,flutter,postman" />
-  <img src="https://skillicons.dev/icons?i=terraform,jenkins,aws,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=terraform,jenkins,aws,azure" /><br>
 </div>
 <br/>
 <img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif">
