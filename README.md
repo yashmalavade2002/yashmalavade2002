@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **Web Devlopment Projects**
 
-- 🌱 I’m currently learning **Java DSA OOP DevOps AWS**
+- 🌱 I’m currently learning **Java DSA OOP SQL AWS**
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Cloud  Technologies**
 
 - 📫 How to reach me **yashmalvade90@gmail.com**
 
