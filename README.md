@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Java Projects**
 
-- 🌱 I’m currently learning **Java DSA OOP SQL AWS**
+- 🌱 I’m currently learning **JAVA DSA OOP SQL AWS**
 
 - 💬 Ask me about **Cloud  Technologies**
 
