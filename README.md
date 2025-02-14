@@ -10,9 +10,9 @@
 
 <Br>
 
-- 🔭 I’m currently working on **Java Projects**
+- 🔭 I’m currently working on **Web Development Projects**
 
-- 🌱 I’m currently learning **JAVA DSA OOP SQL Android Studio**
+- 🌱 I’m currently learning **JAVA DSA OOP SQL Web Dev**
 
 - 💬 Ask me about **Cloud  Technologies**
 
