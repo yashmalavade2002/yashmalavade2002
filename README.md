@@ -10,7 +10,7 @@
 
 <Br>
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭 I’m currently working on **Web Technologies**
 
 - 🌱 I’m currently learning **JAVA DSA OOP SQL Web Dev**
 
