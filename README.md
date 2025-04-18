@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **JAVA Web Dev DeVops**
 
-- 💬 Ask me about **Cloud  Technologies**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **yashmalvade90@gmail.com**
 
