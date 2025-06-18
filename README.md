@@ -36,9 +36,9 @@
    <br/>
 <div align="center">
  <img src="https://skillicons.dev/icons?i=java" />
-    <img src="https://skillicons.dev/icons?i=dotnet,azure,git,github,angular,tailwind" />
+    <img src="https://skillicons.dev/icons?i=rabbitmq,spring,azure,git,github,angular,tailwind" />
     <img src="https://skillicons.dev/icons?i=mysql,postman,react,html,docker,vscode,nodejs" />
-   <img src="https://skillicons.dev/icons?i=kubernetes,js,postgresql,ts,jenkins,aws,gcp" /><br>
+   <img src="https://skillicons.dev/icons?i=hibernate,kubernetes,js,postgresql,ts,jenkins,aws,gcp" /><br>
 </div>
 <br/>
   
