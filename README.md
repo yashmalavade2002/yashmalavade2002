@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Web Technologies**
 
-- 🌱 I’m currently learning **JAVA Web Dev DeVops**
+- 🌱 I’m currently learning **JAVA Springboot Angular**
 
 - 💬 Ask me about **Cloud & DevOps**
 
