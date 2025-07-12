@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **JAVA Web Dev DeVops**
 
-- 💬 Ask me about **Cloud&DevOps**
+- 💬 Ask me about **Cloud & DevOps**
 
 - 📫 How to reach me **yashmalvade90@gmail.com**
 
