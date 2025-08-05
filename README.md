@@ -1,6 +1,6 @@
 <img src="https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRmZ2dtba1nZWlt.jpg">
 <h1 align="center">Hi 👋, I'm Yash Malvade</h1>
-<h3 align="center">A Passionate Java Developer from India</h3>
+<h3 align="center">A Passionate Web Developer from India</h3>
 <img align="right" alt="coding " width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
