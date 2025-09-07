@@ -38,7 +38,7 @@
  <img src="https://skillicons.dev/icons?i=java,python" />
     <img src="https://skillicons.dev/icons?i=linux,tailwind,git,mongodb" />
     <img src="https://skillicons.dev/icons?i=mysql,postman,react,html,docker,vscode,nodejs,expressjs" />
-   <img src="https://skillicons.dev/icons?i=terraform,Terraform,kubernetes,js,postgresql,ts,jenkins,aws,azure" /><br>
+   <img src="https://skillicons.dev/icons?i=Terraform,kubernetes,js,postgresql,ts,jenkins,aws,azure" /><br>
 </div>
 <br/>
   
